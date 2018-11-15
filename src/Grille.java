@@ -87,18 +87,18 @@ public class Grille extends JComponent {
 		this.lignes = lignes;
 		this.colonnes = colonnes;
 		this.tabCases = tabCases;
-	    this.un = Toolkit.getDefaultToolkit().getImage("images/1.png");
-	    this.deux = Toolkit.getDefaultToolkit().getImage("images/2.png");
-	    this.trois = Toolkit.getDefaultToolkit().getImage("images/3.png");
-	    this.quatre = Toolkit.getDefaultToolkit().getImage("images/4.png");
-	    this.cinq = Toolkit.getDefaultToolkit().getImage("images/5.png");
-	    this.six = Toolkit.getDefaultToolkit().getImage("images/6.png");
-	    this.sept = Toolkit.getDefaultToolkit().getImage("images/7.png");
-	    this.huit = Toolkit.getDefaultToolkit().getImage("images/8.png");
-	    this.mine = Toolkit.getDefaultToolkit().getImage("images/mine.png");
-	    this.mineExplose = Toolkit.getDefaultToolkit().getImage("images/mine_explose.png");
-	    this.drapeau = Toolkit.getDefaultToolkit().getImage("images/flag.png");
-	    this.interrogation = Toolkit.getDefaultToolkit().getImage("images/point_dinterrogation.png");
+	    this.un = Toolkit.getDefaultToolkit().getImage("../images/1.png");
+	    this.deux = Toolkit.getDefaultToolkit().getImage("../images/2.png");
+	    this.trois = Toolkit.getDefaultToolkit().getImage("../images/3.png");
+	    this.quatre = Toolkit.getDefaultToolkit().getImage("../images/4.png");
+	    this.cinq = Toolkit.getDefaultToolkit().getImage("../images/5.png");
+	    this.six = Toolkit.getDefaultToolkit().getImage("../images/6.png");
+	    this.sept = Toolkit.getDefaultToolkit().getImage("../images/7.png");
+	    this.huit = Toolkit.getDefaultToolkit().getImage("../images/8.png");
+	    this.mine = Toolkit.getDefaultToolkit().getImage("../images/mine.png");
+	    this.mineExplose = Toolkit.getDefaultToolkit().getImage("../images/mine_explose.png");
+	    this.drapeau = Toolkit.getDefaultToolkit().getImage("../images/flag.png");
+	    this.interrogation = Toolkit.getDefaultToolkit().getImage("../images/point_dinterrogation.png");
 	}
 	
 	/**
